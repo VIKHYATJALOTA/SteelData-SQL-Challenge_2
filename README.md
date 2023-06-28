@@ -1,4 +1,4 @@
-**SteelData-SQL-Challange-2**
+##**SteelData-SQL-Challange-2**##
 
 The top eSports competitors from across the globe have gathered to battle it out
 Can you analyze the following data to find out all about the tournament?
